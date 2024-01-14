@@ -1,0 +1,13 @@
+# Car Sales Data Analysis Project
+
+This project involves the analysis of car sales data using Delta Lake, PySpark, and Databricks.
+
+## Overview
+
+- **Data Source:** The project uses car sales data stored in Delta Lake format.
+- **Environment:** The analysis is performed on Databricks, leveraging PySpark for data processing.
+- **Delta Lake:** Delta Lake is used for efficient storage and versioning of the car sales data.
+
+## Project Structure
+
+- **Notebook:** The main notebook for this project is named `Car_Sales_Analysis.ipynb`. It includes code snippets and explanations for analyzing the car sales data.
