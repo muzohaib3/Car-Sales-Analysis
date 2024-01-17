@@ -4,9 +4,9 @@ This project involves the analysis of stores data using Delta Lake, PySpark, and
 
 ## Overview
 
-- **Data Source:** The project uses car sales data stored in Delta Lake format.
+- **Data Source:** The project uses stores data stored in Delta Lake format.
 - **Environment:** The analysis is performed on Databricks, leveraging PySpark for data processing.
-- **Delta Lake:** Delta Lake is used for efficient storage and versioning of the car sales data.
+- **Delta Lake:** Delta Lake is used for efficient storage and versioning of the stores data.
 
 ## Project Structure
 
