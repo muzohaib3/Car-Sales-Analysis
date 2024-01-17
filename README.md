@@ -1,6 +1,6 @@
-# Car Sales Data Analysis Project
+# Metro Stores Analysis Project
 
-This project involves the analysis of car sales data using Delta Lake, PySpark, and Databricks.
+This project involves the analysis of stores data using Delta Lake, PySpark, and Databricks.
 
 ## Overview
 
